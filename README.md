@@ -1,7 +1,7 @@
 # DarkWinterGrup Blog Page
 Go to site https://darkwintergrup.github.io/blog/
 
-# Used Theme = Memoirs Jekyll Theme
+# Memoirs Jekyll Theme
 
 [Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/)
 
