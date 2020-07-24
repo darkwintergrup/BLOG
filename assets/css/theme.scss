@@ -614,6 +614,9 @@ body.active-side {
     max-height: 50px !important;
     margin-right: 50px;
 }
+body, input, button, select, optgroup, textarea {
+    font-family: 'DM Sans' !important;
+}
 
 //responsive tweaks
 @media (min-width: 768px) {
