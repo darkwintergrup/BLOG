@@ -617,6 +617,20 @@ body.active-side {
 body, input, button, select, optgroup, textarea {
     font-family: 'DM Sans' !important;
 }
+.article-post {
+    background-color: #fff;
+    padding: 50px !important;
+    max-width: 790px !important;
+}
+.rating {
+    background-color: #fff;
+    padding: 50px !important;
+    max-width: 790px !important;
+}
+
+.related-posts .blog-grid-item .card-text {
+    display: none !important;
+}
 
 //responsive tweaks
 @media (min-width: 768px) {
