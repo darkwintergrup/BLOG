@@ -627,10 +627,37 @@ body, input, button, select, optgroup, textarea {
     padding: 50px !important;
     max-width: 790px !important;
 }
-
 .related-posts .blog-grid-item .card-text {
     display: none !important;
 }
+.authorbox {
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #fff;
+    padding: 50px !important;
+    max-width: 790px !important;
+	/* border: 1px solid #0a0a0a; */
+}
+.authorbox:after {
+    background: linear-gradient(90deg,#5df2ae,#5df2ae);
+    content: '';
+    display: block;
+    position: absolute;
+    top: calc(100% + 1px);
+    left: 8px;
+    right: -1px;
+    height: 4px;
+    pointer-events: none;
+}
+
+
+
+
+
+
+
+
 
 //responsive tweaks
 @media (min-width: 768px) {
