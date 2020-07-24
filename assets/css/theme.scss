@@ -610,7 +610,10 @@ body.active-side {
 .navbar-brand img {
     max-height: 55px !important;
 }
-
+.newsletter img.newsletter-logo {
+    max-height: 50px !important;
+    margin-right: 50px;
+}
 
 //responsive tweaks
 @media (min-width: 768px) {
