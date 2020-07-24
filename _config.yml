@@ -1,8 +1,8 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
+name: "DarkWinterGRUP"
+title: "DarkWinterGRUP Blog"
+description: "We will take you on the unique world of exploration. Content, design, snippets, inspiration, wordpress and much more. Eat, Pray, Love!"
+logo: 'assets/images/logo-dw.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
@@ -23,10 +23,10 @@ authors:
     twitter: https://www.instagram.com/darkwintergrup/
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
-    name: John
-    display_name: John    
+    name: DarkWinterGRUP
+    display_name: DarkWinterGRUP   
     avatar: 'assets/images/dwg-profile.jpg'
-    email: wowthemesnet@gmail.com
+    email: darkwintergrup@gmail.com
     web: https://www.instagram.com/darkwintergrup/
     twitter: https://www.instagram.com/darkwintergrup/
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
