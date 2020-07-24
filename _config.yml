@@ -1,7 +1,7 @@
 # Site
 name: "DarkWinterGRUP Blog - Graphic, Content, WordPress Design & Support Blog"
 title: "DarkWinterGRUP Blog"
-description: "We will take you on the unique world of exploration. Content, design, snippets, inspiration, wordpress and much more. Eat, Pray, Love!"
+description: "We will take you on the unique world of exploration. Content, design, snippets, inspiration, wordpress and much more.<br>Eat, Pray, Love!"
 logo: 'assets/images/logo-dw.png'
 favicon: 'assets/images/logo-dw-o.png'
 baseurl: /
