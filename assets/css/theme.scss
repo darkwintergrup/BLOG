@@ -672,6 +672,9 @@ body, input, button, select, optgroup, textarea {
         grid-template-columns: 1fr 1fr;
     }
 	//DarkWinterGRUP
+	.navbar-brand img {
+    max-height: 41px !important;
+	}
     .newsletter img.newsletter-logo {
         max-height: 50px;
         float: left;
