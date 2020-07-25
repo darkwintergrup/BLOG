@@ -4,7 +4,7 @@ title:  "Memoirs supports external images as featured"
 author: darkwintergrup
 categories: [ Lifestyle, Travel ]
 tags: [ France ]
-image: "https://images.unsplash.com/photo-1509731987499-fd9bba3a46cc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
+image: "https://images.unsplash.com/photo-1509731987499-fd9bba3a46cc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
 ---
 
 Adding images is a very annoying task, I know that, but "Memoirs" theme has external featured images integrated so your publishing task becomes easier now.
