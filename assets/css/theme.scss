@@ -651,14 +651,6 @@ body, input, button, select, optgroup, textarea {
     pointer-events: none;
 }
 
-
-
-
-
-
-
-
-
 //responsive tweaks
 @media (min-width: 768px) {
     .container, .container-sm, .container-md, .container-lg {
@@ -679,10 +671,18 @@ body, input, button, select, optgroup, textarea {
     .blog-grid-container {
         grid-template-columns: 1fr 1fr;
     }
+	//DarkWinterGRUP
     .newsletter img.newsletter-logo {
         max-height: 50px;
         float: left;
+		margin: 10px 0 !important;
     }
+	.article-post {
+    padding: 25px !important;
+	}
+	.authorbox {
+    padding: 25px !important
+	}
 }
 @media (max-width: 768px) {
     .posttitle {
