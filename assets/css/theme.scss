@@ -689,6 +689,16 @@ body, input, button, select, optgroup, textarea {
 	.authorbox {
     padding: 25px !important
 	}
+	.authorbox .col-md-2 {
+    display: none;
+	}
+	.authorbox .text-dark.h4 {
+    font-weight: bold;
+    font-size: 15px;
+	}
+	.authorbox .author-description {
+    font-size: 15px;
+	}
 }
 @media (max-width: 768px) {
     .posttitle {
