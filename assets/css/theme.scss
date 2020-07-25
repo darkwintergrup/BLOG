@@ -650,6 +650,9 @@ body, input, button, select, optgroup, textarea {
     height: 4px;
     pointer-events: none;
 }
+#menu ul li {
+    border-bottom: 1px solid #f1f1f1;
+}
 
 //responsive tweaks
 @media (min-width: 768px) {
