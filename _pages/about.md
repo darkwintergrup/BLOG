@@ -12,7 +12,7 @@ This website is a demonstration to see **Memoirs Jekyll theme** in action. The t
 <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
 
 
-<center>**Legal information about the use of the content**</center>
+**Legal information about the use of the content**
 
 DarkWinterGRUP Brand name and Logo
 - Commercial, non-commercial or personal use is strictly prohibited.
