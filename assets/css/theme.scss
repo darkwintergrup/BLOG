@@ -678,7 +678,10 @@ body, input, button, select, optgroup, textarea {
     .newsletter img.newsletter-logo {
         max-height: 50px;
         float: left;
-		margin: 10px 0 !important;
+		display: block;
+		width: auto;
+		height: auto;
+		margin: -40px 75px 40px;
     }
 	.article-post {
     padding: 25px !important;
