@@ -4,7 +4,7 @@ title:  "French Wine has to compete with many new world wines"
 author: darkwintergrup
 categories: [ Lifestyle ]
 tags: [France]
-image: assets/images/5.jpg
+image: assets/images/posts/11.jpg
 ---
 
 French wine is produced all throughout France, in quantities between 50 and 60 million hectolitres per year, or 7–8 billion bottles. France is one of the largest wine producers in the world, along with Italian, Spanish, and American wine-producing regions. 
