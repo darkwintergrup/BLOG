@@ -684,6 +684,12 @@ body, input, button, select, optgroup, textarea {
         grid-template-columns: 1fr 1fr;
     }
 	//DarkWinterGRUP
+	.blog-grid-item .img-thumb {
+    height: 226px !important;
+	}
+	.firstpage .blog-grid-item:nth-child(1) .img-thumb {
+    height: 460px !important;
+	}
 	.navbar-brand img {
 	max-height: 45px !important;
     margin-bottom: 30px;
